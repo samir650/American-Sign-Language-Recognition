@@ -73,8 +73,10 @@ Press `Q` to exit.
 - Improve model accuracy using deep learning.
 - Add a GUI interface for accessibility.
 
-## 📜 License
-This project is open-source under the **MIT License**.
+📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is open-source under the MIT License.
 
 ---
 ### **🙌 Contributing**
