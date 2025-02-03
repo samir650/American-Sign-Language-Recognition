@@ -62,7 +62,7 @@ python scripts/inference_classifier.py
 Press `Q` to exit.
 
 ## 🛠 Dependencies
-- Python 3.x
+- Python 3.8.10
 - OpenCV
 - MediaPipe
 - NumPy
